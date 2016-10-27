@@ -3,3 +3,4 @@ mechanize
 termcolor
 tabulate
 mock
+pyyaml
