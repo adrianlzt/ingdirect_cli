@@ -1,0 +1,330 @@
+[
+  {
+    "uuid": "MhxSov_amwwkIvojMceGMMveQdyutUzVg8I4gQjbYqhSnnoWhVVwLoeKRJqDWjaSPeHIgoW6yiA4Kx3V2o_11g",
+    "status": {
+      "cod": "5",
+      "description": "Operative"
+    },
+    "holders": [
+      {
+        "interventionDegree": {
+          "description": "TITULAR",
+          "code": "1"
+        },
+        "name": "PEPITO DE LOS PALOTES"
+      }
+    ],
+    "assignedOverdraftLimit": 0,
+    "alias": "Cuenta SIN NÓMINA pepito",
+    "openingDate": "12/10/2014",
+    "bic": "INGDESMMXXX",
+    "bank": "1465",
+    "iban": "ES24 1465 0100 22 1111112222",
+    "productNumber": "14650100221111112222",
+    "name": "Cuenta SIN NÓMINA",
+    "type": 17,
+    "subtype": "6",
+    "availableBalance": 1.38,
+    "interventionCod": 1,
+    "balance": 1.38,
+    "interventionDesc": "Titular",
+    "moreInterveners": false,
+    "enableAlias": true
+  },
+  {
+    "uuid": "MhxSev_amw3kIv4jMteGgMvfQdhuayzVt8IbGQnnYqmH2ueUZan4zed2LePMc3p6PGHwdoW6aiAHqxaVUo_11g",
+    "status": {
+      "cod": "5",
+      "description": "Operative"
+    },
+    "holders": [
+      {
+        "interventionDegree": {
+          "description": "PRIMER TITULAR",
+          "code": "1"
+        },
+        "name": "PEPITO DE LOS PALOTES"
+      },
+      {
+        "interventionDegree": {
+          "description": "COTITULAR",
+          "code": "2"
+        },
+        "name": "OTRA PERSONA"
+      }
+    ],
+    "assignedOverdraftLimit": 0,
+    "alias": "Segunda cuenta SIN NÓMINA otra cuenta",
+    "openingDate": "17/02/2015",
+    "bic": "INGDESMMXXX",
+    "bank": "1465",
+    "iban": "ES04 1465 0100 21 2224440333",
+    "productNumber": "14650100212224440333",
+    "name": "Segunda cuenta SIN NÓMINA",
+    "type": 17,
+    "subtype": "7",
+    "availableBalance": 41.42,
+    "interventionCod": 1,
+    "balance": 41.42,
+    "interventionDesc": "Primer titular",
+    "moreInterveners": true,
+    "enableAlias": true
+  },
+  {
+    "uuid": "MhxSov_amewktvogMcyGM4vpQeyuaUzqn8IwGQenYqebtbujgggggggg5fghyuMuPuHIduWuMuAuuuaVUo_11g",
+    "status": {
+      "cod": "5",
+      "description": "Operative"
+    },
+    "holders": [
+      {
+        "interventionDegree": {
+          "description": "TITULAR",
+          "code": "1"
+        },
+        "name": "PEPITO DE LOS PALOTES"
+      }
+    ],
+    "assignedOverdraftLimit": 840,
+    "openingDate": "22/02/2015",
+    "bic": "INGDESMMXXX",
+    "bank": "1465",
+    "iban": "ES09 1465 0100 11 5555119999",
+    "productNumber": "14650100115555119999",
+    "name": "Cuenta NÓMINA",
+    "type": 17,
+    "subtype": "1",
+    "availableBalance": 70.1,
+    "interventionCod": 1,
+    "balance": 70.1,
+    "interventionDesc": "Titular",
+    "moreInterveners": false,
+    "enableAlias": false
+  },
+  {
+    "uuid": "G5fbFeeeeeegeeeeeeeJRMeyyyyyyyyd-sCtI4g44442jpa4444Nuizhj5NjcQ0n",
+    "status": {
+      "cod": "5",
+      "description": "Operative"
+    },
+    "holders": [
+      {
+        "interventionDegree": {
+          "description": "TITULAR",
+          "code": "1"
+        },
+        "name": "PEPITO DE LOS PALOTES"
+      }
+    ],
+    "sinceOpen": 6.23,
+    "sinceYear": 4.28,
+    "sinceMonth": 0.24,
+    "yearRetention": 1.23,
+    "tae": 0.2,
+    "nominal": 0.19,
+    "alias": "Cuenta NARANJA Ahorro",
+    "openingDate": "04/08/2015",
+    "bic": "INGDESMMXXX",
+    "bank": "1465",
+    "iban": "ES94 1465 0100 99 2227871111",
+    "productNumber": "14650100992227871111",
+    "name": "Cuenta NARANJA",
+    "type": 20,
+    "availableBalance": 51.08,
+    "interventionCod": 1,
+    "balance": 51.08,
+    "interventionDesc": "Titular",
+    "moreInterveners": false,
+    "enableAlias": true
+  },
+  {
+    "uuid": "vfHxpd7su9fGTIOMeJvfr4-bkPTRORGuTJ_x045Zzp7F4952mhPy",
+    "status": {
+      "cod": "8",
+      "description": "Cancelada"
+    },
+    "statusIndra": {},
+    "holder": {
+      "nif": "3238743R",
+      "completeName": "PEPITO DE LOS PALOTES",
+      "type": "Principal",
+      "typeCode": "1"
+    },
+    "associatedAccount": {
+      "uuid": "MhxSov_amwojMceGMMvpQdyuaUzVn8I4GQjnniVPLocKRJYDWjmSPGHIMiAHKxaVUo_11g",
+      "productNumber": "14650100115555119999"
+    },
+    "isRealTimeData": true,
+    "availableCreditAmount": 0,
+    "monthPurchasesAmount": 0,
+    "lastMonthDeferredAmount": 0,
+    "monthlyFee": 0,
+    "pendingAuthorizationAmount": 0,
+    "creditLimit": 0,
+    "nextPaymentDate": "05/11/2016",
+    "anualInterest": "20.05",
+    "expedientNumber": "5504210",
+    "cardType": "Débito",
+    "spentAmount": 0,
+    "paymentMethod": "3",
+    "tae": "22.00",
+    "type": 1,
+    "subtype": "1",
+    "availableBalance": 0,
+    "productNumber": "4214733446139011",
+    "enableAlias": true,
+    "name": "Tarjeta Débito"
+  },
+  {
+    "uuid": "KrrHbEGIxIJIGjvu-1-CNEET2ubGfag0YZntfx04zp7WWKsF52mhPy",
+    "status": {
+      "cod": "0",
+      "description": "Activa"
+    },
+    "statusIndra": {},
+    "holder": {
+      "nif": "4290122R",
+      "completeName": "PEPITO DE LOS PALOTES",
+      "type": "Principal",
+      "typeCode": "1"
+    },
+    "associatedAccount": {
+      "uuid": "MhxSov_amwwkIveGMMvpQdzVn8I4GQjnYqoWnVVPLocKRJYSPGHIdoAHKxaVUo_11g",
+      "productNumber": "14650100212224440333"
+    },
+    "isRealTimeData": true,
+    "availableCreditAmount": 0,
+    "monthPurchasesAmount": 0,
+    "lastMonthDeferredAmount": 0,
+    "monthlyFee": 0,
+    "pendingAuthorizationAmount": 0,
+    "creditLimit": 0,
+    "nextPaymentDate": "05/11/2016",
+    "anualInterest": "20.05",
+    "expedientNumber": "4304320",
+    "cardType": "Débito",
+    "spentAmount": 0,
+    "paymentMethod": "3",
+    "tae": "22.00",
+    "type": 1,
+    "subtype": "1",
+    "availableBalance": 0,
+    "productNumber": "5341232426132020",
+    "enableAlias": true,
+    "name": "Tarjeta Débito"
+  },
+  {
+    "uuid": "KrrHbEGIxIJvCjvu-15Arg9YDsyQcOXwcu_Kzx5Zzp7WWF4952mhPy",
+    "status": {
+      "cod": "0",
+      "description": "Activa"
+    },
+    "statusIndra": {},
+    "holder": {
+      "nif": "3238743R",
+      "completeName": "PEPITO DE LOS PALOTES",
+      "type": "Principal",
+      "typeCode": "1"
+    },
+    "associatedAccount": {
+      "uuid": "MhxSov_amwwkIvojMceGMMvpQdyuzVn4jqVbtoujRgmb5f8HMGd6MiAHKxaVUo_11g",
+      "productNumber": "14650100212224440333"
+    },
+    "isRealTimeData": true,
+    "availableCreditAmount": 0,
+    "monthPurchasesAmount": 0,
+    "lastMonthDeferredAmount": 0,
+    "monthlyFee": 0,
+    "pendingAuthorizationAmount": 0,
+    "creditLimit": 0,
+    "nextPaymentDate": "05/11/2016",
+    "anualInterest": "20.05",
+    "expedientNumber": "6587884",
+    "cardType": "Débito",
+    "spentAmount": 0,
+    "paymentMethod": "3",
+    "tae": "22.00",
+    "type": 1,
+    "subtype": "1",
+    "availableBalance": 0,
+    "productNumber": "5351203666462019",
+    "enableAlias": true,
+    "name": "Tarjeta Débito"
+  },
+  {
+    "uuid": "gYouU1wbTmzuvvr4auhPZQuzFHizInDzFFnY-F-3ETXx045Zzp7WWKsF4952mhPy",
+    "status": {
+      "cod": "0",
+      "description": "Activa"
+    },
+    "statusIndra": {},
+    "holder": {
+      "nif": "3238743R",
+      "completeName": "PEPITO DE LOS PALOTES",
+      "type": "Principal",
+      "typeCode": "1"
+    },
+    "associatedAccount": {
+      "uuid": "MhxSov_amwwkIvojMceGMMvpQdyuzVn8GQjnYbtoujRgm5nb5f8HMJPGd6MiAHKxaVUo_11g",
+      "productNumber": "14650100212224440333"
+    },
+    "isRealTimeData": true,
+    "availableCreditAmount": 700,
+    "monthPurchasesAmount": 0,
+    "lastMonthDeferredAmount": 0,
+    "monthlyFee": 0,
+    "pendingAuthorizationAmount": 0,
+    "creditLimit": 700,
+    "nextPaymentDate": "15/10/2016",
+    "anualInterest": "20.05",
+    "expedientNumber": "6517881",
+    "cardType": "Débito/Crédito",
+    "spentAmount": 0,
+    "paymentMethod": "1",
+    "tae": "22.00",
+    "type": 3,
+    "subtype": "2",
+    "availableBalance": 700,
+    "productNumber": "5160134412109219",
+    "enableAlias": true,
+    "name": "Tarjeta Crédito"
+  },
+  {
+    "uuid": "KrrHbEGIJIGvCjvu-1-Lxhl2-bUV-8YRbRc61eLx045Zzp7WsF4952mhPy",
+    "status": {
+      "cod": "0",
+      "description": "Activa"
+    },
+    "statusIndra": {},
+    "holder": {
+      "nif": "3238743R",
+      "completeName": "PEPITO DE LOS PALOTES",
+      "type": "Principal",
+      "typeCode": "1"
+    },
+    "associatedAccount": {
+      "uuid": "MhxSov_amwwkIvojMGMMvpQdyua8I4GQjnWH2uxUn4z2LFPMcQPGHIW6MiAxaVUo_11g",
+      "productNumber": "14650100212224440333"
+    },
+    "isRealTimeData": true,
+    "availableCreditAmount": 0,
+    "monthPurchasesAmount": 0,
+    "lastMonthDeferredAmount": 0,
+    "monthlyFee": 0,
+    "pendingAuthorizationAmount": 0,
+    "creditLimit": 0,
+    "nextPaymentDate": "05/11/2016",
+    "anualInterest": "20.05",
+    "expedientNumber": "1018312",
+    "cardType": "Débito",
+    "spentAmount": 0,
+    "paymentMethod": "3",
+    "tae": "22.00",
+    "type": 1,
+    "subtype": "1",
+    "availableBalance": 0,
+    "productNumber": "5331203404224219",
+    "enableAlias": true,
+    "name": "Tarjeta Débito"
+  }
+]

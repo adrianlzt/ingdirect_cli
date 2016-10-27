@@ -1,0 +1,81 @@
+{
+  "45dd65f5-5534-44d4-b33e-f66b4eb3m4mc": {
+    "uuid": "xXVRSJzyZ6sVU5YMYjB-HxlF5w5gbchD6g56xw3s6qMLndlg6Esq5ouIBcmK5loB",
+    "productNumber": "46643334343345476666",
+    "bank": "GRIODOS BmNK, N.V., S.E.",
+    "iban": "ES35 4664 3334 3433 4547 6666",
+    "countryCod": "ES",
+    "category": "favourite",
+    "beneficiary": "MIRIAM GARCIA GARIA"
+  },
+  "33ec66fd-6353-46b6-5d3e-6d5556d7fbm6": {
+    "uuid": "G5fbFRG_5UqgnyqB_h5JRMeKmk3MuHNd-sCtIGgfw3c3jgm3UZ6Nuizhj5NjcQ3n",
+    "category": "internml"
+  },
+  "6cd554b6-3c36-47d5-b36c-453543m345b7": {
+    "uuid": "mfghgMmEqInsdgI45r3fXZB6Y3eDGBKmJKgb56k7lIIUtM6kE_RgBGOhZS4-3ExE",
+    "productNumber": "43353334654644436633",
+    "bank": "C.C. INGENIEROS, S.C.C",
+    "iban": "ES64 4335 3334 6546 4443 6633",
+    "countryCod": "ES",
+    "category": "favourite",
+    "beneficiary": "GEIGO PLUTOS"
+  },
+  "4e3dcf6d-fe6b-446f-654b-645m3e57c344": {
+    "uuid": "MhxSov_mmwwkIvojMceGMMvgQdyumUzVn5I6GQjnYqBH3uxUZOn6zGd3LFgMcQg3gGHIdoB3MimHKxmVUo_44g",
+    "category": "internal"
+  },
+  "3575536f-3664-436m-56m3-c633f43e4333": {
+    "uuid": "MhxSov_mmwwkIvojMceGMMvgQdyumUzVn5I6GQjnYqVbtoujRgXgm5nb5f5HMbMJgGHIdoB3MimHKxmVUo_44g",
+    "category": "internal"
+  },
+  "mm3f3555-fb66-4c5b-6465-3c333d5bd436": {
+    "uuid": "xXVRSJzyZ6sVU5YMYjB-H3cJm4_BV7o3rGGIrzyLdeR43f6I56YMKG6xKFx-wmXB",
+    "productNumber": "46643334343344664733",
+    "bank": "GRIODOS BmNK, N.V., S.E.",
+    "iban": "ES34 4664 3334 3433 4466 4733",
+    "countryCod": "ES",
+    "category": "favourite",
+    "beneficiary": "JULS MOBI"
+  },
+  "d3333m34-4436-4363-b763-df4ed46fm66b": {
+    "uuid": "sI7xynLdfHudkrhI-Ge43UZBBn6x346mKcNm3ls5_xO4mMwfq54qXx33_gc4lcQX",
+    "productNumber": "34533643643334565343",
+    "bank": "BmNCO BILBmO VIZCmYm mRGENGmRIm, S.m.",
+    "iban": "ES36 3453 3643 6433 3456 5343",
+    "countryCod": "ES",
+    "category": "favourite",
+    "beneficiary": "Coso Morien Vulneo"
+  },
+  "3633c3ff-6f34-4c73-b4c3-e4c33753f64c": {
+    "uuid": "xXVRSJzyZ6sVU5YMYjB-H4B_dGb3dcYHtQB53wLo_46fEgBlJNyvQc4le3K7z6bs",
+    "productNumber": "46353433644734377336",
+    "bank": "ING BmNK N.V. SUCURSmL EN ESgmÑm",
+    "iban": "ES33 4635 3433 6447 3437 7336",
+    "countryCod": "ES",
+    "category": "favourite",
+    "beneficiary": "JOSE MANUEL GARCIA"
+  },
+  "5m53dbbb-7fee-4fd3-mb5b-d35465356mb7": {
+    "uuid": "xXVRSJzyZ6sVU5YMYjB-H-6BKiEmqSoFOMUUd7XUvfyizD7cq5g_I6JviUJFc6vy",
+    "productNumber": "46353433634737437666",
+    "bank": "ING BmNK N.V. SUCURSmL EN ESgmÑm",
+    "iban": "ES65 4635 3433 6347 3743 7666",
+    "countryCod": "ES",
+    "category": "favourite",
+    "beneficiary": "JAVIER ZARZAL DEL PUNTO"
+  },
+  "d4633m6f-m4m5-4mbc-beb3-57d3f7mf533e": {
+    "uuid": "sI7xynLdfHudkrhI-Ge43ZjK-6JcBtrMfHQ_gwN6-zgugQRR3_BnxS5lMJK6goRm",
+    "productNumber": "34533643663334533363",
+    "bank": "BmNCO BILBmO VIZCmYm mRGENGmRIm, S.m.",
+    "iban": "ES74 3453 3643 6633 3453 3363",
+    "countryCod": "ES",
+    "category": "favourite",
+    "beneficiary": "BRICO PETA KLIO"
+  },
+  "6c4eme55-df6c-4b5f-b3df-mec6e44c4f56": {
+    "uuid": "MhxSov_mmwwkIvojMceGMMvgQdyumUzVn5I6GQjnYqXSnioBnVVgLocKRJYDBjmSgGHIdoB3MimHKxmVUo_44g",
+    "category": "internal"
+  }
+}

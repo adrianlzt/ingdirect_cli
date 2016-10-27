@@ -1,0 +1,23 @@
+Preguntar coordenada por prompt si no hay fichero
+
+Poder guardar favoritos
+
+Hacer el autocompletado de mis cuentas
+
+Gestionar correctamente donde guardar los ficheros de conf y para el autocompletado
+
+Meter en un fichero de conf todos los datos personales
+
+fichero setup.py
+
+instalacion con binario para llamar, tambien metiendo el autocompletion
+
+
+El truo para que las imagenes sean distintas es andar metiendo "blancos" de valor 254 en vez de 255
+
+Anonimizar datos de test data
+
+
+En las transfers siempre pone "Transpaso interno emitido" si es entre ING. Mirar para que salga lo que debe.
+
+Arreglar el tema favoritos. Que se bajen de la web pero también puedan meterse a mano. Que el zsh completion funcione

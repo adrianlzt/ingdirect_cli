@@ -1,0 +1,5 @@
+python-gnupg
+mechanize
+termcolor
+tabulate
+mock

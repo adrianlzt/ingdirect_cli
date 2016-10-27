@@ -1,0 +1,11 @@
+*.pyc
+datos/
+test_transferencia.py
+*.bak
+favoritos.txt
+.idea/
+*.swp
+ingcli.iml
+accounts.yml
+config.cfg
+favoritos.yml

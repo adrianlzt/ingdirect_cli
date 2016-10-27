@@ -1,0 +1,6 @@
+[default]
+dni=00000000T
+fecha_nacimiento=01/01/1970
+pass=112233
+coordenadas=coordenadas.gpg
+gpg_pinentry=gnome3

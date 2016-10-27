@@ -1,0 +1,77 @@
+#compdef ingdirect
+
+typeset -A opt_args
+autoload -U regexp-replace
+
+_ingdirect() {
+  local curcontext="$curcontext" state line
+
+	_arguments \
+	    '(- 1 *)'{-h,--help}'[show help message]' \
+	    '(- 1 *)'{-v,--verbose}'[use verbose output. Twice for debug]' \
+	    '1: :_ing_cmds' \
+	    '*:: :->args'
+
+  case $state in
+    args)
+      case $words[1] in
+        favoritos)
+          _arguments \
+            '--obtener[actualizar el fichero local con la informacion de ING]:obtener favoritos' \
+            '--guardar[guardar un favorito en internet]' \
+            '--titular=[titular del favorito a guardar]:titular favoritos' \
+            '--cuenta=[cuenta del favorito a guardar]:cuenta favoritos'
+        ;;
+        movimientos)
+          _arguments \
+            '(-h, --help)'{-h,--help}'[show help message]' \
+            '(-c, --cuenta)'{-c,--cuenta}'[filtrar resultados solo para esta cuenta]:cuenta:_get_accounts_names'
+        ;;
+        transferencia)
+          _arguments \
+            '--cuenta_origen=[cuenta de la que sacamos el dinero]:cuenta origen:_get_accounts_names' \
+            '--favorito_destino=[enviar el dinero a una cuenta ya conocida]:favorito:_get_favourites_names' \
+            '--cuenta_destino=[cuenta que recibe el dinero]:cuenta destino:_get_accounts_names' \
+            '--titular=[titular de la cuenta destino. No necesario con favorito]:nombre completo' \
+            '--cantidad=[cuantos euros transferir]:euros' \
+            '--concepto=[mensaje en la transferencia]:concepto' \
+            '--help[show help message]'
+        ;;
+      esac
+  esac
+}
+
+_ing_cmds () {
+  local -a commands
+  commands=(
+    "favoritos:actualizar fichero local de favoritos"
+    "movimientos:obtener movimientos"
+    "transferencia:realizar una transferencia"
+  )
+  _describe 'command' commands
+}
+
+_get_accounts_names () {
+  local -a accounts
+  accounts=(
+    'Cuenta NÓMINA salario'
+    'Cuenta SIN NÓMINA internet'
+    'Segunda cuenta SIN NÓMINA Gastos comunes'
+    'Cuenta NARANJA Ahorro'
+  )
+
+  _describe "Cuentas" accounts
+}
+
+_get_favourites_names () {
+  local -a accounts
+
+  while read line
+  do
+    accounts+=$line
+  done < ~/Documentos/ingdirect/ingcli/favoritos.txt
+
+  _describe "Cuentas" accounts
+}
+
+_ingdirect
